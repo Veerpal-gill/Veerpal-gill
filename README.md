@@ -23,8 +23,7 @@ I am building projects in data cleaning, exploratory analysis, SQL, and Power BI
 
 )
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:veerpalgill963@gmail.com)
-- LinkedIn: [www.linkedin.com/in/veerpal-gill]
-- Email: [veerpalgill963@gmail.com]
+
 <!--
 **Veerpal-gill/Veerpal-gill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
