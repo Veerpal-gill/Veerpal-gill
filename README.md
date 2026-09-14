@@ -1,7 +1,7 @@
 
 # Hi, I'm veerpal gill 👋
 
-### Data Analyst | Power BI | SQL | Excel | Python
+### Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
 I turn data into clear dashboards and useful business insights.  
 I am building projects in data cleaning, exploratory analysis, SQL, and Power BI.
