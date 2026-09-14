@@ -18,7 +18,9 @@ I am building projects in data cleaning, exploratory analysis, SQL, and Power BI
   SQL and Excel analysis to identify top products, customers, and revenue patterns.
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/veerpal-gill/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/veerpal-gill/www.linkedin.com/in/veerpal-gill
+
+)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com)
 
 - LinkedIn: [www.linkedin.com/in/veerpal-gill]
